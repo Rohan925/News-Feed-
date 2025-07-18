@@ -49,7 +49,7 @@ A fully automated AI pipeline that combines **fast scraping, intelligent summari
   - `/domains`, `/categories` – Metadata views
   - `/search` – RAG-based semantic query interface
 
-### 🎨 Frontend (React – In Progress)
+### 🎨 Frontend (streamlit – In Progress)
 - Filter by domain/category
 - Display AI summaries
 - RAG-powered smart search bar
@@ -62,7 +62,7 @@ A fully automated AI pipeline that combines **fast scraping, intelligent summari
 - **Search**: Qdrant Vector DB
 - **AI**: OpenAI for summarization
 - **Backend**: FastAPI
-- **Frontend**: React (WIP)
+- **Frontend**: streamlit 
 
 ## 🎯 End Goal
 Deliver **summarized, relevant, and searchable news** in real-time using a scalable AI-first architecture—**no noise, just insights**.
